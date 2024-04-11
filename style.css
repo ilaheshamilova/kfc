@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.boxs{
+    height: 130vh;
+    background-color: red
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+padding: 0 50px 0 50px;
+
+}
+.kfc-kisi img{
+  width: 80px;
+  padding-top: 15px;
+}
+.right-side a{
+    text-decoration: none;
+    color: white;
+    
+}
+.right-side{
+    display: flex;
+    gap: 35px;
+}
+.section-1{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 0 0 60px;
+    color: white;
+    font-family: "Ubuntu Condensed", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+      font-size: x-large;
+      width: 110%;
+}
+button{
+    margin-top: 23px;
+    height: 35px;
+    width: 100px;
+    border-radius: 50px;
+}
+.button{
+    display: flex;
+    color: white;
+    gap: 26px;
+    justify-content: flex-start;
+    padding-left: 60px;
+
+   
+}
+.sekil img{
+    width: 590px;
+  padding-right: 200px;
+}
+.text{
+    padding-right: 150px;
+margin-right: 7%;
+margin-bottom: 15%;
+}
